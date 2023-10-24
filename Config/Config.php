@@ -1,6 +1,6 @@
 <?php
 
-    const BASE_URL = "https://ospixd.github.io/modacol-x/";
+    const BASE_URL = "https://modacolx.vercel.app/";
 
     //Zona horaria
     date_default_timezone_set('America/Bogota');
