@@ -1,0 +1,28 @@
+.app-sidebar__user-avatar{
+    width: 48px;
+    background: gray;
+    padding: 6px;
+}
+
+.headerRegister, .header-primary{
+    background: #009688;
+    color: #FFF;
+}
+
+.headerUpdate{
+    background: #007bff;
+    color: #FFF;
+}
+.headerPermisos{
+    background: red;
+    color: white;
+}
+
+.notBlock{
+    display: none;
+}
+.accesorestringido img{
+    width: 60%;
+    height: 60%;
+  }
+
